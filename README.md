@@ -1,6 +1,12 @@
-# Barkat Dairy & Snacks
+# SHAHZAIB Milk Shop
 
 A mobile-first Next.js, TypeScript and Tailwind storefront for pickup orders through WhatsApp.
+
+## Live Website
+
+[Visit SHAHZAIB Milk Shop](https://local-shop-ordering-system.vercel.app/)
+
+Hosted on Vercel. Browse products, prepare your order, and send it through WhatsApp for pickup from the shop.
 
 ## Run
 
